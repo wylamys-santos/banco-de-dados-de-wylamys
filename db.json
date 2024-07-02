@@ -1,9 +1,27 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+{ 
+    "informacoes": [
+    {
+      "id": "1",
+      "foto": "",
+      "cargo": "",
+      "resumo": ""
+      
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "experiencias": [
+    {
+      "id": "0",
+      "titulo": "",
+      "descricao": "",
+      "tipo": "",
+      "anoInicio": "",
+      "anoFim": ""
+    }
+],
+  "portfolio": 
+    {
+      "id": "1",
+      "link": "",
+      "imagem": ""
+    }
 }
